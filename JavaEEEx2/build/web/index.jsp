@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : Jan 10, 2020, 8:42:29 AM
-    Author     : Camille Wendpulungo Balimas
+    Author     : Camille Wendpulungo Balimas-
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
